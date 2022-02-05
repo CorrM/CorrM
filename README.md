@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=corrm" alt="corrm" /></a> </p>
 
-- 🔭 I’m currently working on [CheatGear](https://github.com/CorrM/cg)
+- 🔭 I’m currently working on [CheatGear](https://cheatgear.com/)
 
 - 🌱 I’m currently learning **ML, AI**
 
